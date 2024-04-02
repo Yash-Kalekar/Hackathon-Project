@@ -131,7 +131,7 @@ $loggedInUser = $_SESSION['user']; // Assuming the username is stored in the ses
         </div>
         <div class="card">
           <div class="box">
-            <a href="index.html" class="see-project-link">Back To Home</a>
+            <a href="index.php" class="see-project-link">Back To Home</a>
           </div>
         </div>
     </div>
